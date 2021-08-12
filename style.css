@@ -1,6 +1,6 @@
 body {
-  background-color: #444444;
-    color: #dddddd;
+  background-image: url("https://t3.ftcdn.net/jpg/02/08/79/86/360_F_208798676_NKC0wtfLPrXDvTeAfe0siznWwDHXcJbp.jpg");
+    color: #dd;
     font-family: Arial, Helvetica, sans-serif;
     margin: 10% 20%;
 }
@@ -9,5 +9,13 @@ body {
   text-align: center;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.3);
+  background-color: rgba(0,0,0, 0.4);
+  text-transform: uppercase;
+}
+
+.paper {
+  background-image: url("https://www.photos-public-domain.com/wp-content/uploads/2011/03/white-linen-paper-texture.jpg");
+}
+.writing {
+  padding: 30px;
 }
