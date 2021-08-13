@@ -13,6 +13,8 @@ body {
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0,0,0, 0.4);
   text-transform: uppercase;
+  margin-top: 4%;
+  margin-bottom: 4%;
 }
 
 .paper {
@@ -27,12 +29,11 @@ body {
   padding-top: 30px;
 }
 .qualifications {
-  padding-top: 20px;
-  padding-bottom: 40px
+  padding-bottom: 20px;
 }
 .dates {
   
 }
-.ed+date {
-  
+.body-titles {
+  padding-left:2.5%;
 }
